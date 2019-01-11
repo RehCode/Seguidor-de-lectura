@@ -1,0 +1,24 @@
+
+QProgressBar {
+    border: 2px solid grey;
+    border-radius: 2px;
+    text-align: center;
+    font: 12pt "mononoki";
+}
+
+QProgressBar::chunk {
+    background-color: rgb(217, 241, 255);
+    margin: 0.5px;
+}
+
+#titulo {
+    qproperty-alignment: 'AlignCenter';
+    border: 2px solid;
+    border-radius: 14px;
+    text-align: center;
+    padding: 12px;
+    background-color: rgb(227, 227, 227);
+    font-size: 14px;
+    font-weight: bold;
+}
+
