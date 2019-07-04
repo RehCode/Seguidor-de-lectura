@@ -9,7 +9,9 @@ Programa para guardar y mostrar el progreso de lectura de libros
 - Registrar lectura con comentario
 
 ## Captura de pantalla
+![add_book](add_book.png?raw=true "Add Book")
 ![screenshot](screenshot.png?raw=true "Screenshot")
+![add_reading](add_reading.png?raw=true "Add Reading")
 
 ## Requisitos
 - Python 3.4 o version superior
